@@ -1,0 +1,13 @@
+D:\Freizeitprogramms\Car_Rent_OOP\Car_Rent_OOP\Car_Rent_OOP\Car_Rent_OOP\obj\Debug\netcoreapp3.1\Car_Rent_OOP.csproj.AssemblyReference.cache
+D:\Freizeitprogramms\Car_Rent_OOP\Car_Rent_OOP\Car_Rent_OOP\Car_Rent_OOP\obj\Debug\netcoreapp3.1\Car_Rent_OOP.AssemblyInfoInputs.cache
+D:\Freizeitprogramms\Car_Rent_OOP\Car_Rent_OOP\Car_Rent_OOP\Car_Rent_OOP\obj\Debug\netcoreapp3.1\Car_Rent_OOP.AssemblyInfo.cs
+D:\Freizeitprogramms\Car_Rent_OOP\Car_Rent_OOP\Car_Rent_OOP\Car_Rent_OOP\obj\Debug\netcoreapp3.1\Car_Rent_OOP.csproj.CoreCompileInputs.cache
+D:\Freizeitprogramms\Car_Rent_OOP\Car_Rent_OOP\Car_Rent_OOP\Car_Rent_OOP\bin\Debug\netcoreapp3.1\Car_Rent_OOP.exe
+D:\Freizeitprogramms\Car_Rent_OOP\Car_Rent_OOP\Car_Rent_OOP\Car_Rent_OOP\bin\Debug\netcoreapp3.1\Car_Rent_OOP.deps.json
+D:\Freizeitprogramms\Car_Rent_OOP\Car_Rent_OOP\Car_Rent_OOP\Car_Rent_OOP\bin\Debug\netcoreapp3.1\Car_Rent_OOP.runtimeconfig.json
+D:\Freizeitprogramms\Car_Rent_OOP\Car_Rent_OOP\Car_Rent_OOP\Car_Rent_OOP\bin\Debug\netcoreapp3.1\Car_Rent_OOP.runtimeconfig.dev.json
+D:\Freizeitprogramms\Car_Rent_OOP\Car_Rent_OOP\Car_Rent_OOP\Car_Rent_OOP\bin\Debug\netcoreapp3.1\Car_Rent_OOP.dll
+D:\Freizeitprogramms\Car_Rent_OOP\Car_Rent_OOP\Car_Rent_OOP\Car_Rent_OOP\bin\Debug\netcoreapp3.1\Car_Rent_OOP.pdb
+D:\Freizeitprogramms\Car_Rent_OOP\Car_Rent_OOP\Car_Rent_OOP\Car_Rent_OOP\obj\Debug\netcoreapp3.1\Car_Rent_OOP.dll
+D:\Freizeitprogramms\Car_Rent_OOP\Car_Rent_OOP\Car_Rent_OOP\Car_Rent_OOP\obj\Debug\netcoreapp3.1\Car_Rent_OOP.pdb
+D:\Freizeitprogramms\Car_Rent_OOP\Car_Rent_OOP\Car_Rent_OOP\Car_Rent_OOP\obj\Debug\netcoreapp3.1\Car_Rent_OOP.genruntimeconfig.cache
