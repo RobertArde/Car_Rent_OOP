@@ -3,10 +3,10 @@ using System.Collections;
 
 namespace Car_Rent_OOP
 {
-    class Program
+    class Program 
     {
         
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
             int eingabe;
             int i = 0;
@@ -33,7 +33,7 @@ namespace Car_Rent_OOP
                 {
                     case (1):
                         Add_Car(out farbe, out marke,out km,out preis);
-                        someList.Add(new Car(farbe,marke,km,preis,true));
+                        someList[i] = someList.Add(new Car(farbe,marke,km,preis,true));
                         i++;
                             break;
 
@@ -41,13 +41,20 @@ namespace Car_Rent_OOP
                         int x;
                         Console.WriteLine("Welches Auto wollen Sie löschen?: ");
                         x = Convert.ToInt32(Console.ReadLine());
-                        someList.Remove(x);
-                        break;
+                        someList.Remove(x-1);
+                            break;
                     case (3):
                         int y;
                         Console.WriteLine("Welches Auto wollen Sie besetzen/freigeben?");
                         y = Convert.ToInt32(Console.ReadLine());
-                        
+                       
+                        break;
+
+                    case (4):
+                        foreach(int t in someList)
+                        {
+                            Console.WriteLine();
+                        }
                         break;
                     default:
                         break;

@@ -21,7 +21,8 @@ namespace Car_Rent_OOP
             this.mietpreisTag = mietpreisTag;
             this.available = available;
         }
-       
+
+
         public void ToggleAvailable()
         {
             available = !available;
